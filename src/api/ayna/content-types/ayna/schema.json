@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "aynas",
+  "info": {
+    "singularName": "ayna",
+    "pluralName": "aynas",
+    "displayName": "ayna"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "data": {
+      "type": "json"
+    }
+  }
+}
